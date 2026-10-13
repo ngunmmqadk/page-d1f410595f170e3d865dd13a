@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "fce170a64d9a96ac94d210bd",
+  "owner": "ngunmmqadk",
+  "repo": "page-d1f410595f170e3d865dd13a",
+  "title": "TG号购买",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d1f410595f170e3d865dd13a",
+      "a": "TG号购买",
+      "b": "",
+      "entity": "TG号购买",
+      "brand": "TG号购买",
+      "separator": "",
+      "path": "index.html",
+      "hash": "172e5d1884bd832e9a3e7f7e9a475e0ac054471230c6ca7e03b0d60638e0541e",
+      "content": {
+        "keyword1": "TG号购买",
+        "keyword2": "",
+        "primary_entity": "TG号购买",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号购买提供机场订阅与VPN客户端下载服务，享受每月GB极速流量，支持多设备在线，解锁流媒体。官方高速节点，安全稳定。",
+          "AI_DESCRIPTION": "TG号购买提供机场订阅与VPN客户端下载服务，享受每月GB极速流量，支持多设备在线，解锁流媒体。官方高速节点，安全稳定。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --primary: #8a2be2;\n            --gray: #f8f8f8;\n        }\n        * { box-sizing: border-box; }\n        body {\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--gray);\n            color: #333;\n            margin: 0;\n            padding: 0;\n            line-height: 1.6;\n            font-size: 16px;\n        }\n        header {\n            background: #fff;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.08);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        .header-inner {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem 1.5rem;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--primary);\n            text-decoration: none;\n        }\n        nav a {\n            color: #333;\n            text-decoration: none;\n            margin-left: 1.5rem;\n            font-size: 0.95rem;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem 1.5rem;\n        }\n        h1, h2, h3 {\n            color: #333;\n        }\n        h1 {\n            font-size: 2.2rem;\n            text-align: center;\n            margin-bottom: 2rem;\n        }\n        h2 {\n            color: var(--primary);\n            font-size: 1.75rem;\n            margin: 2.5rem 0 1rem;\n        }\n        section {\n            margin-bottom: 3rem;\n        }\n        .intro-text {\n            background: #fff;\n            padding: 2rem;\n            border-radius: 8px;\n            box-shadow: 0 2px 6px rgba(0,0,0,0.05);\n        }\n        .scenarios-config {\n            display: flex;\n            gap: 2rem;\n        }\n        .scenarios-config > div {\n            flex: 1;\n        }\n        ul, ol {\n            padding-left: 1.25rem;\n        }\n        li {\n            margin-bottom: 0.75rem;\n        }\n        .plans-grid {\n            display: flex;\n            gap: 1.5rem;\n            flex-wrap: wrap;\n        }\n        .plan-card {\n            flex: 1;\n            min-width: 280px;\n            background: #fff;\n            border: 1px solid #ddd;\n            padding: 1.75rem;\n            border-radius: 8px;\n            box-shadow: 0 2px 6px rgba(0,0,0,0.05);\n        }\n        .plan-card.featured {\n            border-color: var(--primary);\n            box-shadow: 0 4px 12px rgba(138, 43, 226, 0.15);\n            position: relative;\n        }\n        .plan-card.featured::before {\n            content: \"推荐\";\n            position: absolute;\n            top: -10px;\n            right: 20px;\n            background: var(--primary);\n            color: #fff;\n            font-size: 0.75rem;\n            padding: 2px 10px;\n            border-radius: 20px;\n        }\n        .plan-price {\n            font-size: 1.25rem;\n            font-weight: bold;\n            color: #333;\n            margin: 1rem 0;\n        }\n        .faq-grid {\n            display: flex;\n            flex-direction: column;\n            gap: 0.75rem;\n        }\n        details {\n            background: #fff;\n            border: 1px solid #ddd;\n            border-radius: 6px;\n            padding: 1rem;\n        }\n        summary {\n            font-weight: 600;\n            cursor: pointer;\n            color: var(--primary);\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        footer {\n            background: #1a1a1a;\n            color: #ddd;\n            text-align: center;\n            padding: 2rem 1.5rem;\n        }\n        .footer-links a {\n            color: var(--primary);\n            margin: 0 1rem;\n        }\n        @media (max-width: 768px) {\n            .scenarios-config {\n                flex-direction: column;\n            }\n            h1 {\n                font-size: 1.9rem;\n            }\n            h2 {\n                font-size: 1.5rem;\n            }\n            .plan-card {\n                margin-bottom: 1rem;\n            }\n            .plans-grid {\n                flex-direction: column;\n            }\n        }\n    </style>\n\n\n    <header>\n        <div class=\"header-inner\">\n            <a href=\"#\" class=\"logo\">TG号购买</a>\n            <nav>\n                <a href=\"#introduction\">首页</a>\n                <a href=\"#scenarios\">使用场景</a>\n                <a href=\"#operation\">配置流程</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#plans\">套餐</a>\n            </nav>\n        </div>\n    </header>\n    <main>\n        <h1>TG号购买</h1>\n        \n        <section id=\"introduction\">\n            <h2>品牌简介</h2>\n            <div class=\"intro-text\">\n                <p>TG号购买是专注于机场订阅与VPN加速服务的专业品牌，致力于为用户提供稳定高速的网络连接。我们筛选海量优质节点，确保每位用户获得最佳体验。无论个人使用还是企业团队，都能找到专属方案。</p>\n            </div>\n        </section>\n        \n        <section id=\"scenarios\" class=\"scenarios-config\">\n            <div>\n                <h2>使用场景</h2>\n                <ul>\n                    <li>在线短视频平台及流媒体解锁</li>\n                    <li>在线游戏加速与低延迟优化</li>\n                    <li>跨境数据传输与电商加速</li>\n                    <li>远程办公与企业级VPN连接</li>\n                    <li>隐私保护与全球网络自由</li>\n                </ul>\n            </div>\n            <div>\n                <h2>配置流程</h2>\n                <ol>\n                    <li>选择适合您的订阅套餐</li>\n                    <li>完成支付获取订阅链接</li>\n                    <li>在设备上安装官方客户端</li>\n                    <li>导入订阅链接选择节点连接</li>\n                    <li>立即享受高速流量加速</li>\n                </ol>\n            </div>\n        </section>\n        \n        <section id=\"plans\">\n            <h2>选择适合您的套餐</h2>\n            <div class=\"plans-grid\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <div class=\"plan-price\">¥15/月 | 按年付仅需 ¥150/年</div>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"plan-price\">¥35/月 | 按年付仅需 ¥350/年</div>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <div class=\"plan-price\">¥85/月 | 按年付仅需 ¥850/年</div>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        \n        <section id=\"operation\">\n            <h2>详细配置流程</h2>\n            <div class=\"scenarios-config\">\n                <div>\n                    <h3>步骤一：选择套餐</h3>\n                    <p>根据您的使用需求选择基础版、旗舰版或团队版套餐。年付用户可享受更低价格，流量按月累计。</p>\n                </div>\n                <div>\n                    <h3>步骤二：支付与订阅</h3>\n                    <p>完成安全支付后，即刻获得唯一订阅链接或激活码，支持多种支付方式。</p>\n                </div>\n            </div>\n            <div class=\"scenarios-config\">\n                <div>\n                    <h3>步骤三：客户端安装</h3>\n                    <p>在Windows、Mac、iOS、Android等设备上下载安装官方客户端，兼容性极佳。</p>\n                </div>\n                <div>\n                    <h3>步骤四：导入连接</h3>\n                    <p>打开客户端，粘贴订阅链接，选择优质节点即可连接加速网络。</p>\n                </div>\n            </div>\n        </section>\n        \n        <section id=\"faq\" class=\"faq-grid\">\n            <details>\n                <summary>什么是TG号购买？</summary>\n                <p>TG号购买是专业的机场订阅与VPN加速服务品牌，提供稳定高速节点，支持多场景使用，保障网络畅通。</p>\n            </details>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <p>基础版适合个人日常使用，旗舰版适合需要高流量和游戏加速的用户，团队版专为企业多用户提供专属支持。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>支持Windows、Mac、iOS、Android及路由器等主流设备，同时支持多台设备同时在线。</p>\n            </details>\n            <details>\n                <summary>流量如何使用？</summary>\n                <p>流量按月计算，超出部分速度会降低，但年付用户享有更优惠价格与更高流量额度。</p>\n            </details>\n            <details>\n                <summary>如何获取官方客户端？</summary>\n                <p>所有套餐用户均可通过官网或订阅链接下载官方客户端，覆盖多平台版本。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 TG号购买 版权所有</p>\n        <div class=\"footer-links\">\n            <a href=\"#\">官网</a>\n            <a href=\"#\">友情链接</a>\n        </div>\n    </footer>\n\n",
+          "hash": "849b5d7fc85683af4b0c4820408dda85c374f4dee1c40941e027647fce480490",
+          "seo": {
+            "title": "TG号购买 - 机场订阅 VPN加速器 客户端下载 官网高速节点",
+            "keywords": "TG号购买,机场订阅,VPN加速器,客户端下载,官网下载,高速节点,流量加速",
+            "description": "TG号购买提供机场订阅与VPN客户端下载服务，享受每月GB极速流量，支持多设备在线，解锁流媒体。官方高速节点，安全稳定。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ycsc1688.cn",
+    "host": "p-1840cd42f9.ycsc1688.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "bf1bc4d93107c8fdafd00eb1ee415a1a1c1f0292ab72cff2f475d2ae510dd9b3",
+    "sitemap.xml": "90a3e4a2b29439c7d969799460ba205401670dbd7da9c07de306f6a36f486de0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d006d9fd8ed5921f052bb7f4a9f32fb57b1eabe17c4b18205c500a9e6bb85a6a",
+    "robots.txt": "2c098c04dc5428673620b16dffc1901942ecdac55d959d3368076604a719b9fe",
+    "3d5ae0a875f1dffe877421e4a8f42793.txt": "c11d972f58be70ca6464f1c62835b8c7d3bb937aa49a38af7f04f6eebb6f40ad"
+  },
+  "revision": "9797380180b467cbf2c43e53eb08259f4e296733d14c13545d02d93023443fb2"
+}
